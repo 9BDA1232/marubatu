@@ -1,4 +1,3 @@
-# marubatu
 
 <!DOCTYPE html>
 <html lang="jp">
